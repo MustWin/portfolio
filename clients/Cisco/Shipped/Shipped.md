@@ -62,3 +62,12 @@ You can find it live [here](https://ciscoshipped.io)
 As of (3/16/2016)
 
 They've renewed 5 times and continue to be happy customers.
+
+## Contributors
+
+[Brendan McElligott](https://www.linkedin.com/in/brendan-mcelligott-6032044)
+[Mike Ihbe](https://www.linkedin.com/in/mike-ihbe-a356694)
+[John Weldon](https://www.linkedin.com/in/johnweldon)
+[Tenji Tembo](https://www.linkedin.com/in/tenji240)
+
+And more
