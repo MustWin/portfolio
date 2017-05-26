@@ -1,0 +1,9 @@
+Gixo Alpha
+
+Techonologies we Loved: Java, Objective-C, WebRTC, HTTP Live Streaming.
+
+LovableTech helped create the scaffolds necessary to launch the Gixo Alpha and perform product testing.
+We implemented a HTTP Live Streaming pipeline to deliver rich media without sacrificing Battery consumption or Data usage.
+
+We also implemented a WebRTC client to stream realtime video on iOS Devices.
+This allowed Gixo to perform early user testing and prove their concept to both investors and partners.
