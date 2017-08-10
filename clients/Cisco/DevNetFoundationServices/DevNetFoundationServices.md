@@ -51,7 +51,7 @@ Microservices:
 
 ## Contributors
 
- - [Mike Ihbe](https://github.com/mikejihbe) [li](https://www.linkedin.com/in/mike-ihbe-a356694)
- - [Dan Eloff](https://github.com/eloff) [li](https://www.linkedin.com/in/daniel-eloff-b0118495)
- - [Dosty Everts](https://github.com/evertsd) [li](https://www.linkedin.com/in/dosty-everts-2616a678)
- - [John Weldon](https://github.com/johnweldon) [li](https://www.linkedin.com/in/johnweldon)
+ - [Mike Ihbe](https://github.com/mikejihbe) [(LinkedIn)](https://www.linkedin.com/in/mike-ihbe-a356694)
+ - [Dan Eloff](https://github.com/eloff) [(LinkedIn)](https://www.linkedin.com/in/daniel-eloff-b0118495)
+ - [Dosty Everts](https://github.com/evertsd) [(LinkedIn)](https://www.linkedin.com/in/dosty-everts-2616a678)
+ - [John Weldon](https://github.com/johnweldon) [(LinkedIn)](https://www.linkedin.com/in/johnweldon)
